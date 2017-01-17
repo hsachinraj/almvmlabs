@@ -1,6 +1,6 @@
 Hands-On Lab
 
-Agile Planning and Portfolio Management with Team Foundation Server 2015
+Agile Planning and Portfolio Management with Team Foundation Server 2017
 ========================================================================
 
 Lab version: 14.0.25123.0
